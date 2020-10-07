@@ -1,3 +1,3 @@
 Data section:
 Data's link:  https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
-
+do data manipulaton and removing the most unvalid or unknown attributes to get a cleaner dataset to work with.  
